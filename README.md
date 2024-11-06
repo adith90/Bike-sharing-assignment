@@ -47,7 +47,7 @@ How well those variables describe the bike demands
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@adith90e] - feel free to contact me!
+Created by [@adith90] - feel free to contact me!
 
 
 <!-- Optional -->
